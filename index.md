@@ -1,3 +1,7 @@
+<iframe id="ytplayer" type="text/html" width="720" height="405"
+src="https://www.youtube.com/embed/M7lc1UVf-VE?controls=0&disablekb=1&rel=0&showinfo=0"
+frameborder="0" allowfullscreen>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/sergeythrees/info/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
